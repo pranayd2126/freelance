@@ -9,12 +9,12 @@ export default defineConfig({
     proxy: {
       '/api': {
         // target: 'http://localhost:5000',
-        target: 'https://freelance-bid-system.onrender.com',
+        target: 'https://freelance-i6p4.onrender.com',
         changeOrigin: true,
       },
       '/socket.io': {
         // target: 'http://localhost:5000',
-        target: 'https://freelance-bid-system.onrender.com',
+        target: 'https://freelance-i6p4.onrender.com',
         ws: true,
       },
     },
