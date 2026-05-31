@@ -17,7 +17,7 @@ The platform includes secure authentication, project bidding workflows, integrat
 
 ---
 
-# 🛠 Technology Stack
+# Technology Stack
 
 ## Frontend
 
@@ -170,7 +170,7 @@ npm install
 
 ---
 
-# ▶️ Running the Application
+# Running the Application
 
 ## Start Backend Server
 
